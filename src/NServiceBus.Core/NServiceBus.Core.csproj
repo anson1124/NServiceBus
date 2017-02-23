@@ -103,6 +103,7 @@
     <Compile Include="DelayedDelivery\TimeoutManager\TimeoutManagerConfiguration.cs" />
     <Compile Include="DelayedDelivery\TimeoutManager\TimeoutManagerConfigurationExtensions.cs" />
     <Compile Include="Features\SatelliteDefinitions.cs" />
+    <Compile Include="MessageMutators\MutatorRegistrationExtensions.cs" />
     <Compile Include="MessageMutators\Mutators.cs" />
     <Compile Include="Notifications.cs" />
     <Compile Include="Notifications\EventAggregator.cs" />
